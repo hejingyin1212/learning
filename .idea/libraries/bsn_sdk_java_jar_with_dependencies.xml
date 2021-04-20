@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bsn-sdk-java-jar-with-dependencies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/lib/bsn-sdk-java-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
