@@ -24,7 +24,6 @@ class Code1557 {
                 res.add(i);
             }
         }
-
         return res;
     }
 }
